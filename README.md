@@ -177,6 +177,9 @@ A TypeScript-based chat application for seamless communication.
   <a href="https://github.com/RADson2005official">
     <img src="https://img.shields.io/badge/GitHub-RADson2005official-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
+  <a href="https://www.linkedin.com/in/jay-nagose-1a1a06257/">
+    <img src="https://img.shields.io/badge/LinkedIn-Jay_Nagose-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge" alt="Open to Collaborate"/>
 </p>
 
