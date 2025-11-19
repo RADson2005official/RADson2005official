@@ -28,6 +28,21 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 
 ### 📌 Featured Projects
 
+#### 💼 [jay-s-applicant-tracking-app](https://github.com/RADson2005official/jay-s-applicant-tracking-app)
+A comprehensive job application tracking system built with HTML to help manage opportunities, resources, strategies, and application progress.
+
+#### 🎓 [btech-lab](https://github.com/RADson2005official/btech-lab)
+B.Tech laboratory projects covering AI and NLP implementations in Python.
+
+#### 🏗️ [Concrete-Mix-Design-Calculator](https://github.com/RADson2005official/Concrete-Mix-Design-Calculator)
+A specialized calculator for concrete mix design, supporting construction and civil engineering applications.
+
+#### 🤖 [Digital-twin-HPVC](https://github.com/RADson2005official/Digital-twin-HPVC)
+Digital twin implementation for HPVC (Human-Powered Vehicle Challenge) project.
+
+#### 💭 [Comment-categorisation](https://github.com/RADson2005official/Comment-categorisation)
+Mini project that takes in user comments (e.g., from a social media post or a product announcement), analyzes them using Natural Language Processing (NLP), and categorizes each comment based on the underlying emotion or intent such as praise, hate, constructive criticism, spam, or questions.
+
 #### 🏗️ [RDCconPROJ](https://github.com/RADson2005official/RDCconPROJ)
 The RDC Concrete Aggregate Measurement System - an automated solution for accurately measuring sand and gravel piles at RDC Concrete (India) Limited yards.
 
@@ -39,9 +54,6 @@ An innovative ERP solution leveraging RAG (Retrieval-Augmented Generation) techn
 
 #### 💬 [tax-fluent-chat](https://github.com/RADson2005official/tax-fluent-chat)
 A TypeScript-based chat application for seamless communication.
-
-#### 🌐 [Web_techlab](https://github.com/RADson2005official/Web_techlab)
-Web development experiments and projects.
 
 ---
 
