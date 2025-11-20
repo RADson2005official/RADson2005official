@@ -87,7 +87,7 @@ A specialized calculator for concrete mix design, supporting construction and ci
 <td width="50%">
 
 #### 🤖 [Digital-twin-HPVC](https://github.com/RADson2005official/Digital-twin-HPVC)
-Digital twin implementation for HPVC (Human-Powered Vehicle Challenge) project.
+Digital twin implementation for HPVC (Hindustan Petrolium Virtual Corporation) project.
 
 **Tech:** Digital Twin Technology
 
