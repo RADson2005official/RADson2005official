@@ -14,6 +14,9 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 - 🌱 Exploring AI/ML, Web Development, and Enterprise Solutions
 - 🤖 **AI Tools Expert** - Experienced with **100+ AI tools** throughout my career
 - 🎯 **Strong Points:** Prompt Engineering, Deployment Automation, and AI Integration
+- 🐧 **OS Experience:** Ubuntu (6 months), Kali Linux (3 months), Fedora (WSL), EndeavourOS (Arch-based, current)
+- 📦 **Package Managers:** APT/DEB, RPM, PACMAN - comfortable across all ecosystems
+- 💡 **Mindset:** Highly adaptable, creative problem-solver, never held back by any limitation
 - 💬 Ask me about Python, Java, Web Technologies, AI Prompting, and Software Development
 - 📫 How to reach me: **he/him**
 - ⚡ Fun fact: I enjoy solving real-world problems through code and AI!
@@ -48,8 +51,21 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Project IDX](https://img.shields.io/badge/Project_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🐧 Operating Systems:**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+
+**📦 Package Managers:**  
+![APT](https://img.shields.io/badge/APT/DEB-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![RPM](https://img.shields.io/badge/RPM-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![PACMAN](https://img.shields.io/badge/PACMAN-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 
 **🤖 AI & Prompting Expertise:**  
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -63,6 +79,7 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
   <img src="https://img.shields.io/badge/🛠️_100+_AI_Tools_Mastered-FF6F61?style=for-the-badge" alt="100+ AI Tools"/>
   <img src="https://img.shields.io/badge/🎯_Prompt_Engineering-Expert-00D9FF?style=for-the-badge" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/🚀_Deployment_Automation-Specialist-32CD32?style=for-the-badge" alt="Deployment Specialist"/>
+  <img src="https://img.shields.io/badge/💡_Highly_Adaptable-Creative_Mind-9B59B6?style=for-the-badge" alt="Highly Adaptable"/>
 </div>
 
 ---
