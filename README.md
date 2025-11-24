@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Jay+Nagose!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+there%2C+I'm+Jay+Nagose!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;Passionate+Developer+%7C+Problem+Solver;AI+Tools+Expert+%7C+100%2B+Tools+Mastered+%F0%9F%A4%96;Prompt+Engineer+%7C+Deployment+Specialist+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -12,9 +12,11 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 
 - 🔭 Currently working on **RDC Concrete Aggregate Measurement System** at RDC Concrete (India) Limited
 - 🌱 Exploring AI/ML, Web Development, and Enterprise Solutions
-- 💬 Ask me about Python, Java, Web Technologies, and Software Development
+- 🤖 **AI Tools Expert** - Experienced with **100+ AI tools** throughout my career
+- 🎯 **Strong Points:** Prompt Engineering, Deployment Automation, and AI Integration
+- 💬 Ask me about Python, Java, Web Technologies, AI Prompting, and Software Development
 - 📫 How to reach me: **he/him**
-- ⚡ Fun fact: I enjoy solving real-world problems through code!
+- ⚡ Fun fact: I enjoy solving real-world problems through code and AI!
 
 <br/>
 
@@ -45,8 +47,23 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Project IDX](https://img.shields.io/badge/Project_IDX-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**🤖 AI & Prompting Expertise:**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🛠️_100+_AI_Tools_Mastered-FF6F61?style=for-the-badge" alt="100+ AI Tools"/>
+  <img src="https://img.shields.io/badge/🎯_Prompt_Engineering-Expert-00D9FF?style=for-the-badge" alt="Prompt Engineering"/>
+  <img src="https://img.shields.io/badge/🚀_Deployment_Automation-Specialist-32CD32?style=for-the-badge" alt="Deployment Specialist"/>
+</div>
 
 ---
 
@@ -60,12 +77,22 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 <tr>
 <td width="50%">
 
+#### 🧠 [Tax-LLaMA-Ind](https://github.com/RADson2005official/Tax-LLaMA-Ind)
+Domain-adapted Large Language Model for Indian Income Tax compliance with high citation precision. Addresses the "Oracle Problem" in tax law using Knowledge Graph and Metamorphic Testing.
+
+**Tech:** Python, LLM, RAG, Knowledge Graphs
+
+</td>
+<td width="50%">
+
 #### 💼 [jay-s-applicant-tracking-app](https://github.com/RADson2005official/jay-s-applicant-tracking-app)
 A comprehensive job application tracking system built with HTML to help manage opportunities, resources, strategies, and application progress.
 
 **Tech:** HTML, CSS, JavaScript
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🎓 [btech-lab](https://github.com/RADson2005official/btech-lab)
@@ -74,8 +101,6 @@ B.Tech laboratory projects covering AI and NLP implementations in Python.
 **Tech:** Python, AI/ML, NLP
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🏗️ [Concrete-Mix-Design-Calculator](https://github.com/RADson2005official/Concrete-Mix-Design-Calculator)
@@ -84,6 +109,8 @@ A specialized calculator for concrete mix design, supporting construction and ci
 **Tech:** HTML, JavaScript
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🤖 [Digital-twin-HPVC](https://github.com/RADson2005official/Digital-twin-HPVC)
@@ -92,16 +119,16 @@ Digital twin implementation for HPVC (Hindustan Petrolium Virtual Corporation) p
 **Tech:** Digital Twin Technology
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 💭 [Comment-categorisation](https://github.com/RADson2005official/Comment-categorisation)
-Mini project that takes in user comments (e.g., from a social media post or a product announcement), analyzes them using Natural Language Processing (NLP), and categorizes each comment based on the underlying emotion or intent such as praise, hate, constructive criticism, spam, or questions.
+Mini project that analyzes user comments (e.g., from social media posts or product announcements) using NLP and categorizes them based on emotion or intent.
 
 **Tech:** Python, NLP, Machine Learning
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 🏗️ [RDCconPROJ](https://github.com/RADson2005official/RDCconPROJ)
@@ -110,8 +137,6 @@ The RDC Concrete Aggregate Measurement System - an automated solution for accura
 **Tech:** Python, Computer Vision
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 🎮 [snake-ai](https://github.com/RADson2005official/snake-ai)
@@ -120,6 +145,8 @@ A gamified AI activity project combining entertainment with artificial intellige
 **Tech:** Python, AI
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 #### 📊 [RAGbasedERP](https://github.com/RADson2005official/RAGbasedERP)
@@ -128,8 +155,6 @@ An innovative ERP solution leveraging RAG (Retrieval-Augmented Generation) techn
 **Tech:** Java, RAG, AI
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 #### 💬 [tax-fluent-chat](https://github.com/RADson2005official/tax-fluent-chat)
@@ -137,8 +162,6 @@ A TypeScript-based chat application for seamless communication.
 
 **Tech:** TypeScript, Chat Application
 
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
@@ -179,6 +202,9 @@ A TypeScript-based chat application for seamless communication.
   </a>
   <a href="https://www.linkedin.com/in/jay-nagose-1a1a06257/">
     <img src="https://img.shields.io/badge/LinkedIn-Jay_Nagose-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://dev.to/radson2005official">
+    <img src="https://img.shields.io/badge/dev.to-radson2005official-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
   </a>
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-success?style=for-the-badge" alt="Open to Collaborate"/>
 </p>
