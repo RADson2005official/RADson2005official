@@ -17,6 +17,10 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 - 🐧 **OS Experience:** Ubuntu (6 months), Kali Linux (3 months), Fedora (WSL), EndeavourOS (Arch-based, current)
 - 📦 **Package Managers:** APT/DEB, RPM, PACMAN - comfortable across all ecosystems
 - 💡 **Mindset:** Highly adaptable, creative problem-solver, never held back by any limitation
+- 🌐 **Open Source Enthusiast:** I live in the open source world with a curious mindset
+- 🪟 **Cross-Platform:** Also experienced with Windows & MS365 basic IT tools
+- 🗣️ **Language Agnostic:** Not limited to any coding language - I process natural language and use prompting & rapid prototyping techniques for R&D without language barriers
+- 🍎 **Next Goal:** Dreaming to explore the Mac/Apple ecosystem for broader learning
 - 💬 Ask me about Python, Java, Web Technologies, AI Prompting, and Software Development
 - 📫 How to reach me: **he/him**
 - ⚡ Fun fact: I enjoy solving real-world problems through code and AI!
@@ -61,6 +65,13 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+**💻 Terminal & Shell:**  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-000000?style=for-the-badge&logo=kitty&logoColor=white)
 
 **📦 Package Managers:**  
 ![APT](https://img.shields.io/badge/APT/DEB-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -80,6 +91,8 @@ I'm a passionate developer with expertise in **Python**, **Java**, **HTML**, and
   <img src="https://img.shields.io/badge/🎯_Prompt_Engineering-Expert-00D9FF?style=for-the-badge" alt="Prompt Engineering"/>
   <img src="https://img.shields.io/badge/🚀_Deployment_Automation-Specialist-32CD32?style=for-the-badge" alt="Deployment Specialist"/>
   <img src="https://img.shields.io/badge/💡_Highly_Adaptable-Creative_Mind-9B59B6?style=for-the-badge" alt="Highly Adaptable"/>
+  <img src="https://img.shields.io/badge/🌐_Open_Source-Enthusiast-FF5733?style=for-the-badge" alt="Open Source"/>
+  <img src="https://img.shields.io/badge/🗣️_Language_Agnostic-Rapid_Prototyping-1ABC9C?style=for-the-badge" alt="Language Agnostic"/>
 </div>
 
 ---
